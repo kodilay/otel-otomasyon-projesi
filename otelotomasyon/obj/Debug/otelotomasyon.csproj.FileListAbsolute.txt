@@ -1,0 +1,12 @@
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\bin\Debug\otelotomasyon.exe.config
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\bin\Debug\otelotomasyon.exe
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\bin\Debug\otelotomasyon.pdb
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.FrmKayıtForm.resources
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.Properties.Resources.resources
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.csproj.GenerateResource.Cache
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.exe
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.pdb
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.FrmAdmin.resources
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.restaurant.resources
+C:\Users\Eren Özhan\Desktop\C#\otelotomasyon\otelotomasyon\obj\Debug\otelotomasyon.fiyatguncelle.resources
