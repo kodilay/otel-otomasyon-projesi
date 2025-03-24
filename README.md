@@ -9,18 +9,3 @@ Bu otomasyonu, otel yöneticilerinin işletmelerinin performansını ölçebilme
 
 Başka geliştiriciler de bu projeyi inceleyerek kendi otel otomasyonlarını geliştirebilirler. Ayrıca, projeyi inceleyenlerin geri bildirimleri ile projenin geliştirilmesine de açığım.
 
-Kullanılan Teknolojiler:
-
-Python
-Flask Web Framework
-SQLite veritabanı
-Kurulum:
-
-Bu depoyu bilgisayarınıza kopyalayın veya indirin
-Terminali açın ve projenin bulunduğu dizine gidin
-Virtual environment oluşturun: python3 -m venv env
-Virtual environmenti etkinleştirin: source env/bin/activate
-Gerekli kütüphaneleri yükleyin: pip install -r requirements.txt
-Veritabanını oluşturun: python create_db.py
-Uygulamayı başlatın: python app.py
-Tarayıcıda http://localhost:5000 adresine giderek otel otomasyonu uygulamasını kullanmaya başlayabilirsiniz.
